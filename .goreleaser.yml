@@ -59,8 +59,6 @@ signs:
       - "${artifact}"
 release:
   # Visit your project's GitHub Releases page to publish this release.
-  github:
-    owner: opentelekomcloud
-    name: terraform-provider-opentelekomcloud
+  # draft: true
 changelog:
   skip: true
